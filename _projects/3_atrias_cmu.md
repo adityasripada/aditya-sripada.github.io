@@ -30,5 +30,5 @@ I also worked on the **CMU Moon Rover** project (part-time), developing state es
 
 ### Publications
 
-- **Turning Behavior of Running Systems induced by Leg Placement** — *CMU Technical Report, 2021*
-- **Turning Behavior of Running Systems Induced by Leg Placement** — *Dynamic Walking 2020 (Poster)*
+- **Turning Behavior of Running Systems induced by Leg Placement** — _CMU Technical Report, 2021_
+- **Turning Behavior of Running Systems Induced by Leg Placement** — _Dynamic Walking 2020 (Poster)_

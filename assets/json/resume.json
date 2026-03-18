@@ -29,9 +29,7 @@
       "startDate": "2026-02-01",
       "endDate": "",
       "summary": "",
-      "highlights": [
-        "Enabling autonomous mobile manipulator fleets that move, carry, pick and pack millions of SKUs across warehouses."
-      ]
+      "highlights": ["Enabling autonomous mobile manipulator fleets that move, carry, pick and pack millions of SKUs across warehouses."]
     },
     {
       "name": "Nimble.ai",
@@ -63,9 +61,7 @@
       "startDate": "2021-09-01",
       "endDate": "2022-09-01",
       "summary": "",
-      "highlights": [
-        "First robotics engineer on the flagship robotic system, responsible for item picking and autonomous warehouse navigation."
-      ]
+      "highlights": ["First robotics engineer on the flagship robotic system, responsible for item picking and autonomous warehouse navigation."]
     },
     {
       "name": "Carnegie Mellon University Robotics Institute",
@@ -161,10 +157,7 @@
       "endDate": "2017-05-01",
       "score": "9.3/10",
       "courses": [],
-      "highlights": [
-        "Best Graduation Thesis, EEE Department (among 700+ students)",
-        "University Merit Scholar, all 4 years"
-      ]
+      "highlights": ["Best Graduation Thesis, EEE Department (among 700+ students)", "University Merit Scholar, all 4 years"]
     }
   ],
   "awards": [
@@ -287,38 +280,19 @@
       "name": "Robotics & Control",
       "level": "Expert",
       "icon": "fa-solid fa-robot",
-      "keywords": [
-        "Legged Locomotion",
-        "Mobile Manipulation",
-        "Motion Planning",
-        "Control Systems",
-        "Reinforcement Learning",
-        "State Estimation"
-      ]
+      "keywords": ["Legged Locomotion", "Mobile Manipulation", "Motion Planning", "Control Systems", "Reinforcement Learning", "State Estimation"]
     },
     {
       "name": "Engineering",
       "level": "Expert",
       "icon": "fa-solid fa-microchip",
-      "keywords": [
-        "Mechanical Design",
-        "Electrical Engineering",
-        "Power Systems",
-        "Circuits",
-        "3D Printing"
-      ]
+      "keywords": ["Mechanical Design", "Electrical Engineering", "Power Systems", "Circuits", "3D Printing"]
     },
     {
       "name": "Programming",
       "level": "Expert",
       "icon": "fa-solid fa-code",
-      "keywords": [
-        "Python",
-        "C++",
-        "ROS",
-        "Simulation",
-        "Data Analytics"
-      ]
+      "keywords": ["Python", "C++", "ROS", "Simulation", "Data Analytics"]
     }
   ],
   "languages": [

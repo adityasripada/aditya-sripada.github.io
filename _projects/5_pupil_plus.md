@@ -21,6 +21,7 @@ As an **LVP-MIT Research Fellow** at the LVPEI Center for Innovation, I worked o
 ### Projects
 
 **Pupil+** — A handheld device to quantify and measure pupillary and neurological responses to light stimuli. I developed the full hardware system including:
+
 - Processing unit
 - Illumination system (red LED stimulus)
 - Battery systems
@@ -36,5 +37,5 @@ I also served as a technical mentor at the 5th and 6th editions of the **"Engine
 
 ### Media Coverage
 
-- **"Hearing Problems? Don't Worry, Just Wear This Cap"** — *The New Indian Express*
-- **"SRM hearing aid draws praise"** — *The Deccan Chronicle*
+- **"Hearing Problems? Don't Worry, Just Wear This Cap"** — _The New Indian Express_
+- **"SRM hearing aid draws praise"** — _The Deccan Chronicle_

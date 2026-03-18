@@ -30,4 +30,4 @@ Standard bipeds are limited to ground locomotion and cannot cross large gaps or 
 
 ### Publication
 
-- **Towards a Flying and Leaping Humanoid Robot** — *IROS 2018 (Poster)*, with V. Joshi and R.P. Kumar
+- **Towards a Flying and Leaping Humanoid Robot** — _IROS 2018 (Poster)_, with V. Joshi and R.P. Kumar

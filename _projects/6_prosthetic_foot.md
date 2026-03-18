@@ -21,6 +21,7 @@ During my time at IIT Hyderabad, I designed a novel **Self-Adjusting Foot Suppor
 ### Applications
 
 The mechanism is designed to enhance lateral stability in:
+
 - **Humanoid robots** — improving dynamic balance during locomotion
 - **Prosthetic feet** — adapting to uneven terrain for amputee users
 - **Exoskeletons** — providing passive stabilization during assisted walking

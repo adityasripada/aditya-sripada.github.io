@@ -7,7 +7,7 @@ importance: 1
 category: work
 ---
 
-**TARS3D** is a fully 3D-printed research robot inspired by the fictional TARS robot from the film *Interstellar*. Standing 25 cm tall and weighing 0.99 kg, TARS3D integrates seven active degrees of freedom — three rotary joints linking four leg segments and four prismatic actuators adjusting leg lengths — allowing it to switch between multiple locomotion modes using the same mechanical structure.
+**TARS3D** is a fully 3D-printed research robot inspired by the fictional TARS robot from the film _Interstellar_. Standing 25 cm tall and weighing 0.99 kg, TARS3D integrates seven active degrees of freedom — three rotary joints linking four leg segments and four prismatic actuators adjusting leg lengths — allowing it to switch between multiple locomotion modes using the same mechanical structure.
 
 What makes TARS3D unique is that it is the **first and only TARS replica that can both walk and roll**. By adapting rimless-wheel dynamics, TARS3D achieves stable bipedal walking at 0.10 m/s and high-speed rolling at 0.51 m/s (Froude number ~0.18, comparable to prior passive dynamic walkers) — with seamless gait switching and no mechanical reconfiguration.
 
@@ -17,9 +17,9 @@ The project was partially supported by ROBOTIS through their power user program.
 
 ### Publications
 
-- **Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot** — *IEEE Humanoids 2025*
-- **Adaptive Gaits of TARS: A Sci-Fi Inspired Multimodal Robot** — *ICRA 2025 Workshop on Unconventional Robots*
-- **Bridging Fiction and Reality: Evaluating the Feasibility of Adaptive Gaits Inspired by TARS from Interstellar** — *ISER 2025*
+- **Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot** — _IEEE Humanoids 2025_
+- **Adaptive Gaits of TARS: A Sci-Fi Inspired Multimodal Robot** — _ICRA 2025 Workshop on Unconventional Robots_
+- **Bridging Fiction and Reality: Evaluating the Feasibility of Adaptive Gaits Inspired by TARS from Interstellar** — _ISER 2025_
 
 ### Media
 
