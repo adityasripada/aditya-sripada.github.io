@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Staff Robotics Engineer & Robotics Systems Architect @ <a href='https://nimble.ai'>Nimble.ai</a> · San Francisco Bay Area
 
 profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>San Francisco Bay Area, USA</p>
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -27,8 +25,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](https://www.reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I make robots work — not just in the lab, but at scale, in production, every day.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I am a Staff Robotics Engineer at [Nimble.ai](https://nimble.ai), where I own the control systems and performance optimization for autonomous warehouse robots. My work focuses on solving the mobility and manipulation challenges that enable robots to reliably pick, pack, and move items in real-world fulfillment environments. When the difference between a demo and a product is 10 million picks without someone babysitting, that is the kind of reliability problem I spend my days on.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before Nimble, I completed my MS in Robotics at [Carnegie Mellon University's Robotics Institute](https://www.ri.cmu.edu/) (GPA: 4.08/4.0), advised by [Prof. Hartmut Geyer](https://www.cs.cmu.edu/~hgeyer/). My research focused on control policies for dynamic legged systems, including work on [ATRIAS](https://mime.oregonstate.edu/research/drl/atrias/), a human-scale bipedal robot. I have published at ICRA, IROS, and IEEE Humanoids.
+
+I am also the creator of [TARS3D](https://www.wevolver.com/), a dual-mode locomotion robot inspired by the TARS character from *Interstellar* that can both walk and roll. I went to unreasonable lengths for my passion for robotics — TARS3D started with zero industry funding and earned a **Mike Stilman Award finalist** nomination at [IEEE Humanoids 2025](https://2025.ieee-humanoids.org/), competing against 80+ institutions from 20+ countries. Before that, I led India's first gold medal win at [RoboGames 2017](https://robogames.net/).
+
+My background spans mechanical design, circuits and power systems, optimal control, and software for complex robotic systems. I care about closing the gap between what robots can do in demos and what they can do in the real world — that is the hard part, and that is what I am good at.

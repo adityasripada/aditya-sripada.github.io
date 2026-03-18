@@ -1,189 +1,261 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Aditya Sripada
+  label: "Staff Robotics Engineer & Robotics Systems Architect"
+  email: adityassripada@gmail.com
+  location: San Francisco Bay Area, USA
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: I make robots work — not just in the lab, but at scale, in production, every day. Staff Robotics Engineer at Nimble.ai, focused on autonomous mobile manipulation for warehouse operations. MS in Robotics from Carnegie Mellon University's Robotics Institute.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
-    - network: GitHub
-      username: example
     - network: LinkedIn
-      username: example
-
-  address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+      username: adityasripada
+    - network: GitHub
+      username: aditya-sripada
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
+      - institution: Carnegie Mellon University
+        location: Pittsburgh, PA, USA
+        url: https://www.cmu.edu/
+        area: Robotics
+        studyType: MS
+        start_date: 2019
+        end_date: 2021
+        score: "4.08/4.0"
         highlights:
-          - Description 1.
-          - Description 2.
+          - "Thesis: Turning Behavior of Running Systems induced by Leg Placement"
+          - "Research with Prof. Hartmut Geyer on optimal control of dynamic legged systems, including the ATRIAS biped"
+          - "Partially supported by NSF Grant 1563807: Collaborative Research on Self-stabilizing Running Robots"
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: SRM University
+        location: Chennai, India
+        area: Electrical and Electronics Engineering
+        studyType: B.Tech
+        start_date: 2013
+        end_date: 2017
+        score: "9.3/10"
         highlights:
-          - Description 1.
-          - Description 2.
+          - Best Graduation Thesis, EEE Department (among 700+ students)
+          - University Merit Scholar, all 4 years
 
     Experience:
-      - company: Institute for Advanced Study, Princeton University
-        position: Professor of Theoretical Physics
-        location: Princeton University, NJ
-        start_date: 1933
-        end_date: 1955
-        summary: Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.
+      - company: Nimble.ai
+        position: Staff Robotics Engineer & Robotics Systems Architect
+        location: San Francisco Bay Area, USA
+        start_date: 2026-02
+        end_date: present
         highlights:
-          - Relativity
-          - Description 2.
+          - Enabling autonomous mobile manipulator fleets that move, carry, pick and pack millions of SKUs across warehouses.
 
-      - company: California Institute of Technology
-        position: Visiting Professor
-        location: Pasadena, California, US
-        start_date: 1933
-        end_date: 1933
+      - company: Nimble.ai
+        position: Senior Robotics Engineer
+        location: San Francisco Bay Area, USA
+        start_date: 2024-03
+        end_date: 2026-02
         highlights:
-          - Description 1.
-          - Description 2.
+          - Tech Lead on Mobile Manipulation Robotics Team.
+          - Spearheaded development of high-impact control features, doubling throughput in Q4 2023, which proved crucial for commercial success and fundraising.
+          - Diagnosed and resolved critical production issues involving mobile robot dynamics slip and sensing noise across heterogeneous robot fleets.
+          - Designed simulation and data analytics tools to benchmark and improve locomotion reliability and multi-sensor integration.
 
-      - company: Kaiser Wilhelm Institute for Physics
-        position: Director
-        location: Berlin, Germany
-        start_date: 1917
-        end_date: 1933
+      - company: Nimble.ai
+        position: Robotics Engineer II
+        location: San Francisco Bay Area, USA
+        start_date: 2022-10
+        end_date: 2024-03
 
-      - company: Karl-Ferdinand University
-        position: Professor of Theoretical Physics
-        location: Prague, Czechoslovakia
-        start_date: 1911
-        end_date: 1917
-
-      - company: University of Zurich
-        position: Associate Professor of Theoretical Physics
-        location: Zurich, Switzerland
-        start_date: 1909
-        end_date: 1911
-
-    Volunteer:
-      - company: People's Climate March
-        position: Lead Organizer
-        location: Zurich, Switzerland
-        start_date: 2014-04-01
-        end_date: 2015-07-01
-        summary: Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.
+      - company: Nimble.ai
+        position: Robotics Engineer
+        location: San Francisco Bay Area, USA
+        start_date: 2021-09
+        end_date: 2022-09
         highlights:
-          - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
-          - "Men of the year 2014 by Time magazine"
+          - First robotics engineer on the flagship robotic system, responsible for item picking and autonomous warehouse navigation.
+
+      - company: Carnegie Mellon University Robotics Institute
+        position: Graduate Student Researcher
+        location: Pittsburgh, PA, USA
+        start_date: 2019-09
+        end_date: 2021-08
+        summary: "Advisor: Prof. Hartmut Geyer"
+        highlights:
+          - Worked on optimal control of highly non-linear, dynamic, and underactuated legged systems, including the ATRIAS biped.
+          - Focused on exploiting natural dynamics of legged systems to achieve dynamic maneuvers with minimal energy expenditure.
+
+      - company: Carnegie Mellon University
+        position: "State Estimation & Localization, CMU Moon Rover"
+        location: Pittsburgh, PA, USA
+        start_date: 2020-08
+        end_date: 2021-01
+        summary: Part-time project
+        highlights:
+          - Developed robust state estimator for localization of the CMU Moonranger autonomous space rover, targeting the Lunar South Pole.
+          - Developed vehicle kinematics models and probabilistic filters for localization.
+          - Designed power switching circuitry to mitigate single event upsets caused by ionizing radiation in space.
+
+      - company: Indian Institute of Technology, Hyderabad
+        position: Research Engineer, Robotics and Intelligent Systems Laboratory
+        location: Hyderabad, India
+        start_date: 2018-02
+        end_date: 2019-05
+        summary: "Advisor: Prof. R. Prasanth Kumar"
+        highlights:
+          - Engineered a full-sized humanoid robot (1.72m) from scratch with a budget of INR 7M (USD 100K).
+          - Developed controllers for walking, active balance, push recovery, and vertical jumping.
+          - Built a flying biped combining terrain capabilities of a biped with aerial capabilities of a quadrotor (presented at IROS 2018).
+          - Designed novel footplates for prostheses and orthoses enhancing lateral stability (patented).
+          - Implemented micron-level precision control on a five-bar parallel manipulator.
+
+      - company: LVPEI Center for Innovation
+        position: LVP-MIT Research Fellow
+        location: Hyderabad, India
+        start_date: 2017-06
+        end_date: 2017-12
+        summary: Research collaboration between LVPEI Center for Innovation and MIT Media Lab
+        highlights:
+          - Gaze tracking of infants to quantify response to changing light stimuli without subjectivity.
+          - Developed hardware system for Pupil+, a handheld device to quantify pupillary and neurological responses to light stimuli.
+          - Developed an inexpensive, multifunctional device to diagnose Dry Eye Syndrome.
+          - Technical mentor at the 5th and 6th editions of "Engineering the Eye" Hackathon; mentored teams placed 1st runner-up both years.
+
+      - company: SRM Team Humanoid, SRM University
+        position: Team Lead
+        location: Chennai, India
+        start_date: 2013
+        end_date: 2017
+        summary: "Advisor: Prof. Hemalatha B"
+        highlights:
+          - Led design, fabrication, and control of humanoid robots for international competitions.
+          - Won India's first Gold Medal at Robogames 2017 in the Autonomous Humanoid Penalty Kick category.
 
     Awards:
-      - title: Nobel Prize in Physics
-        authors:
-          - "Royal Swedish Academy of Sciences"
-        date: 1921-11-01
-        awarder: Royal Swedish Academy of Sciences
-        url: https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/
-        summary: The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'
+      - title: Mike Stilman Award for Outstanding Research Paper, Finalist
+        date: 2025
+        awarder: "IEEE RAS International Conference on Humanoids 2025, Seoul, South Korea"
+        summary: "Competing against 80+ institutions from 20+ countries for the TARS3D project."
 
-      - title: Max Planck Medal
-        authors:
-          - "German Physical Society"
-        date: 2029
-        awarder: German Physical Society
-        summary: Awarded for outstanding scientific achievement
+      - title: Best Safety Features Award
+        date: 2020
+        awarder: Micron UV Robot Design Challenge
+        summary: "Won among 400 contestants as the only one-person team. Designed the robot in under 3 days."
+
+      - title: Jury Member, Drones and Robotics Track
+        date: 2018
+        awarder: Smart India Hackathon Hardware Edition, Ministry of Human Resource Development, India
+
+      - title: "Robogames 2017 — Gold Medal (Autonomous Humanoid Penalty Kick)"
+        date: 2017
+        awarder: "Robogames, San Francisco, USA"
+        summary: "Also won Silver (Humanoid Freestyle), Silver (Humanoid Biped Race), Bronze (RC Humanoid Sumo). India's first Robogames gold medal."
+
+      - title: Third Prize, Humanoid Application Challenge — Humanoid Magic
+        date: 2017
+        awarder: IEEE International Conference on Intelligent Robots and Systems 2017
+
+      - title: Best Graduation Thesis
+        date: 2017
+        awarder: "EEE Department, SRM University (among 700+ students)"
+
+      - title: IEEE Travel Grant ($500)
+        date: 2017
+        awarder: IEEE
+        summary: To attend IROS 2017, Vancouver.
+
+      - title: Winner, National Maker Summit
+        date: 2016
+        awarder: IIT Madras
+
+      - title: University Merit Scholar
+        date: 2017
+        awarder: SRM University
+        summary: All 4 years.
 
     Publications:
-      - title: Zur Elektrodynamik bewegter Körper
+      - title: "Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-06-30
-        url: https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
-        summary: It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source.
+          - A. Sripada
+          - A. Warrier
+        publisher: International Conference on Humanoid Robots 2025 (Humanoids 2025)
+        releaseDate: 2025
 
-      - title: Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt
+      - title: "Building Baymax: A First Step Toward Soft-Link Humanoids"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1905-03-18
-        url: https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt
-        summary: In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921.
+          - A. Sripada
+        publisher: "10th 'Can we build Baymax?' Workshop, Humanoids 2025"
+        releaseDate: 2025
 
-      - title: Die Grundlage der allgemeinen Relativitätstheorie
+      - title: "Bridging Fiction and Reality: Evaluating the Feasibility of Adaptive Gaits Inspired by TARS from Interstellar"
         authors:
-          - Albert Einstein
-        publisher: Annalen der Physik
-        releaseDate: 1916-03-20
-        url: https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie
-        summary: The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914).
+          - A. Sripada
+        publisher: International Symposium of Experimental Robots 2025 (ISER 2025)
+        releaseDate: 2025
+
+      - title: "Adaptive Gaits of TARS: A Sci-Fi Inspired Multimodal Robot"
+        authors:
+          - A. Sripada
+        publisher: "2nd Workshop on Unconventional Robots, ICRA 2025"
+        releaseDate: 2025
+
+      - title: "Turning Behavior of Running Systems induced by Leg Placement"
+        authors:
+          - A. Sripada
+          - H. Geyer
+        publisher: Robotics Institute, Carnegie Mellon University, Technical Report
+        releaseDate: 2021
+
+      - title: "Biped Robot Vertical Jumping with Control Constraints"
+        authors:
+          - A. Sripada
+          - J. Vistapalli
+          - R.P. Kumar
+        publisher: Robotics and Biomimetics 2018 (ROBIO 2018)
+        releaseDate: 2018
+
+      - title: "Real-Time Teleoperation of a Humanoid Robot with Motion Imitation and Legged Locomotion"
+        authors:
+          - A. Sripada
+          - H. Asokan
+          - A. Warrier
+          - A. Kapoor
+          - H. Gaur
+          - R. Sridhar
+        publisher: International Conference on Advanced Robotics and Mechatronics 2018 (ICARM 2018)
+        releaseDate: 2018
+
+      - title: "Dynamic Lateral Balance of Humanoid Robots on Unstable Surfaces"
+        authors:
+          - A. Sripada
+          - A. Warrier
+          - A. Kapoor
+          - H. Gaur
+          - B. Hemalatha
+        publisher: ICEECCOT 2017
+        releaseDate: 2017
 
     Skills:
-      - name: Physics
-        level: Master
-        icon: fa-solid fa-hashtag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+      - name: Robotics & Control
+        level: Expert
+        icon: fa-solid fa-robot
+        keywords: "Legged Locomotion, Mobile Manipulation, Motion Planning, Control Systems, Reinforcement Learning, State Estimation"
+
+      - name: Engineering
+        level: Expert
+        icon: fa-solid fa-microchip
+        keywords: "Mechanical Design, Electrical Engineering, Power Systems, Circuits, 3D Printing"
+
+      - name: Programming
+        level: Expert
+        icon: fa-solid fa-code
+        keywords: "Python, C++, ROS, Simulation, Data Analytics"
 
     Languages:
-      - name: German
-        summary: "Native speaker"
-
       - name: English
-        summary: "Fluent"
+        summary: "Professional working proficiency"
+
+      - name: German
+        summary: "Limited working proficiency"
 
     Interests:
-      - name: Physics
+      - name: Robotics Research
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
-
-    Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-location-dot
-
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
-
-    Projects:
-      - name: Quantum Computing
-        summary: Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.
-        highlights:
-          - Quantum Teleportation
-          - Quantum Cryptography
-        start_date: 2018-01-01
-        end_date: 2018-01-01
-
-    References:
-      - name: Professor John Doe
-        icon: fa-solid fa-laptop
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
-
-      - name: Professor Jane Smith
-        icon: fa-solid fa-thumbtack
-        reference: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit.
+        keywords: "Legged Locomotion, Humanoid Robots, Mobile Manipulation, Unconventional Robot Design, Sci-Fi Inspired Robotics, Passive Dynamic Walking"

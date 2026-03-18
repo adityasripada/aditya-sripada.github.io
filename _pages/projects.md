@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Robots I have designed, built, and programmed — from sci-fi-inspired multimodal locomotion to humanoids, assistive devices, and hybrid aerial-terrestrial systems.
 nav: true
 nav_order: 3
 display_categories: [work, fun]

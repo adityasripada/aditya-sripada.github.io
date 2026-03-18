@@ -1,221 +1,389 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Aditya Sripada",
+    "label": "Staff Robotics Engineer & Robotics Systems Architect",
     "image": "",
-    "email": "einstein@example.com",
-    "phone": "(912) 123-4567",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "adityassripada@gmail.com",
+    "phone": "",
+    "summary": "I make robots work — not just in the lab, but at scale, in production, every day. Staff Robotics Engineer at Nimble.ai, focused on autonomous mobile manipulation for warehouse operations. MS in Robotics from Carnegie Mellon University's Robotics Institute.",
     "location": {
-      "address": "2712 Broadway St",
-      "postalCode": "CA 94115",
-      "city": "San Francisco",
+      "address": "",
+      "postalCode": "",
+      "city": "San Francisco Bay Area",
       "countryCode": "US",
       "region": "California"
     },
-    "profiles": []
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "adityasripada",
+        "url": "https://www.linkedin.com/in/adityasripada/"
+      }
+    ]
   },
   "work": [
     {
-      "name": "Institute for Advanced Study, Princeton University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Princeton University, NJ",
-      "startDate": "1933-01-01",
-      "endDate": "1955-01-01",
-      "summary": "Teaching at Palmer Physical Laboratory (now 302 Frist Campus Center). While not a professor at Princeton, I associated with the physics professors and continued to give lectures on campus.",
-      "highlights": ["Relativity", "Description 2."]
-    },
-    {
-      "name": "California Institute of Technology",
-      "position": "Visiting Professor",
-      "location": "Pasadena, California, US",
-      "startDate": "1933-01-01",
-      "endDate": "1933-01-01",
+      "name": "Nimble.ai",
+      "position": "Staff Robotics Engineer & Robotics Systems Architect",
+      "location": "San Francisco Bay Area, USA",
+      "startDate": "2026-02-01",
+      "endDate": "",
       "summary": "",
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": [
+        "Enabling autonomous mobile manipulator fleets that move, carry, pick and pack millions of SKUs across warehouses."
+      ]
     },
     {
-      "name": "Kaiser Wilhelm Institute for Physics",
-      "position": "Director",
-      "location": "Berlin, Germany",
-      "startDate": "1917-01-01",
-      "endDate": "1933-01-01",
-      "summary": "",
-      "highlights": []
+      "name": "Nimble.ai",
+      "position": "Senior Robotics Engineer",
+      "location": "San Francisco Bay Area, USA",
+      "startDate": "2024-03-01",
+      "endDate": "2026-02-01",
+      "summary": "Tech Lead on Mobile Manipulation Robotics Team",
+      "highlights": [
+        "Spearheaded development of high-impact control features, doubling throughput in Q4 2023, which proved crucial for commercial success and fundraising.",
+        "Diagnosed and resolved critical production issues involving mobile robot dynamics slip and sensing noise across heterogeneous robot fleets.",
+        "Designed simulation and data analytics tools to benchmark and improve locomotion reliability and multi-sensor integration.",
+        "Collaborated with hardware, software, and production teams to deliver robust system improvements under high operational load."
+      ]
     },
     {
-      "name": "Karl-Ferdinand University",
-      "position": "Professor of Theoretical Physics",
-      "location": "Prague, Czechoslovakia",
-      "startDate": "1911-01-01",
-      "endDate": "1917-01-01",
+      "name": "Nimble.ai",
+      "position": "Robotics Engineer II",
+      "location": "San Francisco Bay Area, USA",
+      "startDate": "2022-10-01",
+      "endDate": "2024-03-01",
       "summary": "",
       "highlights": []
     },
     {
-      "name": "University of Zurich",
-      "position": "Associate Professor of Theoretical Physics",
-      "location": "Zurich, Switzerland",
-      "startDate": "1909-01-01",
-      "endDate": "1911-01-01",
+      "name": "Nimble.ai",
+      "position": "Robotics Engineer",
+      "location": "San Francisco Bay Area, USA",
+      "startDate": "2021-09-01",
+      "endDate": "2022-09-01",
       "summary": "",
-      "highlights": []
+      "highlights": [
+        "First robotics engineer on the flagship robotic system, responsible for item picking and autonomous warehouse navigation."
+      ]
+    },
+    {
+      "name": "Carnegie Mellon University Robotics Institute",
+      "position": "Graduate Student Researcher",
+      "location": "Pittsburgh, PA, USA",
+      "startDate": "2019-09-01",
+      "endDate": "2021-08-01",
+      "summary": "Advisor: Prof. Hartmut Geyer",
+      "highlights": [
+        "Worked on optimal control of highly non-linear, dynamic, and underactuated legged systems, including the ATRIAS biped.",
+        "Focused on exploiting natural dynamics of legged systems to achieve dynamic maneuvers with minimal energy expenditure."
+      ]
+    },
+    {
+      "name": "Carnegie Mellon University",
+      "position": "State Estimation & Localization, CMU Moon Rover",
+      "location": "Pittsburgh, PA, USA",
+      "startDate": "2020-08-01",
+      "endDate": "2021-01-01",
+      "summary": "Part-time project",
+      "highlights": [
+        "Developed robust state estimator for localization of the CMU Moonranger autonomous space rover, targeting the Lunar South Pole.",
+        "Developed vehicle kinematics models and probabilistic filters for localization.",
+        "Designed power switching circuitry to mitigate single event upsets caused by ionizing radiation in space."
+      ]
+    },
+    {
+      "name": "Indian Institute of Technology, Hyderabad",
+      "position": "Research Engineer, Robotics and Intelligent Systems Laboratory",
+      "location": "Hyderabad, India",
+      "startDate": "2018-02-01",
+      "endDate": "2019-05-01",
+      "summary": "Advisor: Prof. R. Prasanth Kumar",
+      "highlights": [
+        "Engineered a full-sized humanoid robot (1.72m) from scratch with a budget of INR 7M (USD 100K).",
+        "Developed controllers for walking, active balance, push recovery, and vertical jumping.",
+        "Built a flying biped combining terrain capabilities of a biped with aerial capabilities of a quadrotor (presented at IROS 2018).",
+        "Designed novel footplates for prostheses and orthoses enhancing lateral stability (patented).",
+        "Implemented micron-level precision control on a five-bar parallel manipulator."
+      ]
+    },
+    {
+      "name": "LVPEI Center for Innovation",
+      "position": "LVP-MIT Research Fellow",
+      "location": "Hyderabad, India",
+      "startDate": "2017-06-01",
+      "endDate": "2017-12-01",
+      "summary": "Research collaboration between LVPEI Center for Innovation and MIT Media Lab",
+      "highlights": [
+        "Gaze tracking of infants to quantify response to changing light stimuli without subjectivity.",
+        "Developed hardware system for Pupil+, a handheld device to quantify pupillary and neurological responses to light stimuli.",
+        "Developed an inexpensive, multifunctional device to diagnose Dry Eye Syndrome.",
+        "Technical mentor at the 5th and 6th editions of 'Engineering the Eye' Hackathon; mentored teams placed 1st runner-up both years."
+      ]
+    },
+    {
+      "name": "SRM Team Humanoid, SRM University",
+      "position": "Team Lead",
+      "location": "Chennai, India",
+      "startDate": "2013-01-01",
+      "endDate": "2017-01-01",
+      "summary": "Advisor: Prof. Hemalatha B",
+      "highlights": [
+        "Led design, fabrication, and control of humanoid robots for international competitions.",
+        "Won India's first Gold Medal at Robogames 2017 in the Autonomous Humanoid Penalty Kick category."
+      ]
     }
   ],
-  "volunteer": [
-    {
-      "organization": "People's Climate March",
-      "location": "Zurich, Switzerland",
-      "position": "Lead Organizer",
-      "startDate": "2014-04-01",
-      "endDate": "2015-07-01",
-      "summary": "Lead organizer for the New York City branch of the People's Climate March, the largest climate march in history.",
-      "highlights": ["Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march.", "Men of the year 2014 by Time magazine"]
-    }
-  ],
+  "volunteer": [],
   "education": [
     {
-      "institution": "University of Zurich",
-      "location": "Zurich, Switzerland",
-      "url": "https://www.uzh.ch/",
-      "area": "Physics",
-      "studyType": "PhD",
-      "startDate": "1900-01-01",
-      "endDate": "1905-01-01",
-      "score": "",
-      "courses": ["Theory of Relativity"],
-      "highlights": ["Description 1.", "Description 2."]
+      "institution": "Carnegie Mellon University",
+      "location": "Pittsburgh, PA, USA",
+      "url": "https://www.cmu.edu/",
+      "area": "Robotics",
+      "studyType": "MS",
+      "startDate": "2019-08-01",
+      "endDate": "2021-05-01",
+      "score": "4.08/4.0",
+      "courses": ["CMU 16-868: Biomechanics and Motor Control of Legged Locomotion"],
+      "highlights": [
+        "Thesis: Turning Behavior of Running Systems induced by Leg Placement",
+        "Research with Prof. Hartmut Geyer on optimal control of dynamic legged systems, including the ATRIAS biped",
+        "Partially supported by NSF Grant 1563807: Collaborative Research on Self-stabilizing Running Robots"
+      ]
     },
     {
-      "institution": "Eidgenössische Technische Hochschule",
-      "location": "Zurich, Switzerland",
-      "area": "Physics",
-      "studyType": "Federal teaching diploma",
-      "startDate": "1896-01-01",
-      "endDate": "1900-01-01",
-      "score": "",
+      "institution": "SRM University",
+      "location": "Chennai, India",
+      "area": "Electrical and Electronics Engineering",
+      "studyType": "B.Tech",
+      "startDate": "2013-08-01",
+      "endDate": "2017-05-01",
+      "score": "9.3/10",
       "courses": [],
-      "highlights": ["Description 1.", "Description 2."]
+      "highlights": [
+        "Best Graduation Thesis, EEE Department (among 700+ students)",
+        "University Merit Scholar, all 4 years"
+      ]
     }
   ],
   "awards": [
     {
-      "title": "Nobel Prize in Physics",
-      "date": "1921-11-01",
-      "awarder": "Royal Swedish Academy of Sciences",
-      "url": "https://www.nobelprize.org/prizes/physics/1921/einstein/biographical/",
-      "summary": "The Nobel Prizes are five separate prizes that, according to Alfred Nobel's will of 1895, are awarded to 'those who, during the preceding year, have conferred the greatest benefit to humankind.'"
+      "title": "Mike Stilman Award for Outstanding Research Paper, Finalist",
+      "date": "2025-11-01",
+      "awarder": "IEEE RAS International Conference on Humanoids 2025, Seoul, South Korea",
+      "summary": "Competing against 80+ institutions from 20+ countries for the TARS3D project."
     },
     {
-      "title": "Max Planck Medal",
-      "date": "2029-01-01",
-      "awarder": "German Physical Society",
+      "title": "Best Safety Features Award",
+      "date": "2020-09-01",
+      "awarder": "Micron UV Robot Design Challenge",
+      "summary": "Won among 400 contestants as the only one-person team. Designed the robot in under 3 days."
+    },
+    {
+      "title": "Jury Member, Drones and Robotics Track",
+      "date": "2018-04-01",
+      "awarder": "Smart India Hackathon Hardware Edition, Ministry of Human Resource Development, India",
       "summary": ""
-    }
-  ],
-  "certificates": [
-    {
-      "name": "Machine Learning",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-location-dot"
     },
     {
-      "name": "Quantum Computing",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-tag"
+      "title": "Gold Medal – Autonomous Humanoid Penalty Kick",
+      "date": "2017-04-01",
+      "awarder": "Robogames 2017, San Francisco, USA",
+      "summary": "India's first Robogames gold medal. Also won Silver (Humanoid Freestyle), Silver (Humanoid Biped Race), Bronze (RC Humanoid Sumo)."
     },
     {
-      "name": "Quantum Information",
-      "date": "2018-01-01",
-      "issuer": "Stanford University",
-      "icon": "fa-solid fa-envelope"
+      "title": "Third Prize, Humanoid Application Challenge: Humanoid Magic",
+      "date": "2017-09-01",
+      "awarder": "IEEE International Conference on Intelligent Robots and Systems 2017",
+      "summary": ""
+    },
+    {
+      "title": "Best Graduation Thesis",
+      "date": "2017-05-01",
+      "awarder": "EEE Department, SRM University",
+      "summary": "Among 700+ students."
+    },
+    {
+      "title": "IEEE Travel Grant ($500)",
+      "date": "2017-01-01",
+      "awarder": "IEEE",
+      "summary": "To attend IROS 2017, Vancouver."
+    },
+    {
+      "title": "Winner, National Maker Summit",
+      "date": "2016-01-01",
+      "awarder": "IIT Madras",
+      "summary": ""
+    },
+    {
+      "title": "University Merit Scholar",
+      "date": "2017-01-01",
+      "awarder": "SRM University",
+      "summary": "All 4 years."
     }
   ],
+  "certificates": [],
   "publications": [
     {
-      "name": "Zur Elektrodynamik bewegter Körper",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-06-30",
-      "url": "https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies",
-      "summary": "It concerned an interpretation of the Michelson–Morley experiment and the properties of light and time. Special relativity incorporates the principle that the speed of light is the same for all inertial observers regardless of the state of motion of the source."
+      "name": "Walking, Rolling, and Beyond: First-Principles and RL Locomotion on a TARS-Inspired Robot",
+      "publisher": "IEEE-RAS International Conference on Humanoid Robots 2025 (Humanoids 2025)",
+      "releaseDate": "2025-11-01",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Über einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1905-03-18",
-      "url": "https://de.wikisource.org/wiki/Über_einen_die_Erzeugung_und_Verwandlung_des_Lichtes_betreffenden_heuristischen_Gesichtspunkt",
-      "summary": "In the second paper, he applied the quantum theory to light to explain the photoelectric effect. In particular, he used the idea of light quanta (photons) to explain experimental results, but stressed the importance of the experimental results. The importance of his work on the photoelectric effect earned him the Nobel Prize in Physics in 1921."
+      "name": "Building Baymax: A First Step Toward Soft-Link Humanoids",
+      "publisher": "10th 'Can we build Baymax?' Workshop, Humanoids 2025",
+      "releaseDate": "2025-11-01",
+      "url": "",
+      "summary": ""
     },
     {
-      "name": "Die Grundlage der allgemeinen Relativitätstheorie",
-      "publisher": "Annalen der Physik",
-      "releaseDate": "1916-03-20",
-      "url": "https://de.wikisource.org/wiki/Die_Grundlage_der_allgemeinen_Relativitätstheorie",
-      "summary": "The publication of the theory of general relativity made him internationally famous. He was professor of physics at the universities of Zurich (1909–1911) and Prague (1911–1912), before he returned to ETH Zurich (1912–1914)."
+      "name": "Bridging Fiction and Reality: Evaluating the Feasibility of Adaptive Gaits Inspired by TARS from Interstellar",
+      "publisher": "International Symposium of Experimental Robots 2025 (ISER 2025)",
+      "releaseDate": "2025-01-01",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Adaptive Gaits of TARS: A Sci-Fi Inspired Multimodal Robot",
+      "publisher": "2nd Workshop on Unconventional Robots, ICRA 2025",
+      "releaseDate": "2025-05-01",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Turning Behavior of Running Systems induced by Leg Placement",
+      "publisher": "Robotics Institute, Carnegie Mellon University, Technical Report",
+      "releaseDate": "2021-01-01",
+      "url": "",
+      "summary": "MS Thesis work with Prof. Hartmut Geyer."
+    },
+    {
+      "name": "Biped Robot Vertical Jumping with Control Constraints",
+      "publisher": "Robotics and Biomimetics 2018 (ROBIO 2018)",
+      "releaseDate": "2018-12-01",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Real-Time Teleoperation of a Humanoid Robot with Motion Imitation and Legged Locomotion",
+      "publisher": "International Conference on Advanced Robotics and Mechatronics 2018 (ICARM 2018)",
+      "releaseDate": "2018-07-01",
+      "url": "",
+      "summary": ""
+    },
+    {
+      "name": "Dynamic Lateral Balance of Humanoid Robots on Unstable Surfaces",
+      "publisher": "ICEECCOT 2017",
+      "releaseDate": "2017-12-01",
+      "url": "",
+      "summary": ""
     }
   ],
   "skills": [
     {
-      "name": "Physics",
-      "level": "Master",
-      "icon": "fa-solid fa-hashtag",
+      "name": "Robotics & Control",
+      "level": "Expert",
+      "icon": "fa-solid fa-robot",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Legged Locomotion",
+        "Mobile Manipulation",
+        "Motion Planning",
+        "Control Systems",
+        "Reinforcement Learning",
+        "State Estimation"
+      ]
+    },
+    {
+      "name": "Engineering",
+      "level": "Expert",
+      "icon": "fa-solid fa-microchip",
+      "keywords": [
+        "Mechanical Design",
+        "Electrical Engineering",
+        "Power Systems",
+        "Circuits",
+        "3D Printing"
+      ]
+    },
+    {
+      "name": "Programming",
+      "level": "Expert",
+      "icon": "fa-solid fa-code",
+      "keywords": [
+        "Python",
+        "C++",
+        "ROS",
+        "Simulation",
+        "Data Analytics"
       ]
     }
   ],
   "languages": [
     {
-      "language": "German",
-      "fluency": "Native speaker",
+      "language": "English",
+      "fluency": "Professional working proficiency",
       "icon": ""
     },
     {
-      "language": "English",
-      "fluency": "Fluent",
+      "language": "German",
+      "fluency": "Limited working proficiency",
       "icon": ""
     }
   ],
   "interests": [
     {
-      "name": "Physics",
+      "name": "Robotics Research",
       "icon": "fa-solid fa-tag",
       "keywords": [
-        "Quantum Mechanics",
-        "Quantum Computing",
-        "Quantum Information",
-        "Quantum Cryptography",
-        "Quantum Communication",
-        "Quantum Teleportation"
+        "Legged Locomotion",
+        "Humanoid Robots",
+        "Mobile Manipulation",
+        "Unconventional Robot Design",
+        "Sci-Fi Inspired Robotics",
+        "Passive Dynamic Walking"
       ]
     }
   ],
   "references": [
     {
-      "name": "Professor John Doe",
-      "icon": "fa-solid fa-laptop",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Jasmeet Singh",
+      "icon": "fa-solid fa-thumbtack",
+      "reference": "One of the hardest working people I know. His enthusiasm for robotics and humanoids is unparalleled by anyone else I've come across. This makes his passion shine through in his work and drives him to constantly learn and keep on improving his skills which is something I really admire about him."
     },
     {
-      "name": "Professor Jane Smith",
-      "icon": "fa-solid fa-thumbtack",
-      "reference": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam condimentum, diam quis convallis euismod, arcu mi ullamcorper lorem, a vestibulum nunc magna at sem. Sed in risus ac felis varius blandit."
+      "name": "Raghu Gullapalli",
+      "icon": "fa-solid fa-laptop",
+      "reference": "Aditya was an amazing LVP-Mitra Fellow at the LVPEI Center for Innovation. His work ethic, grit and intellectual curiosity set a high benchmark for future cohorts of Fellows. He has been an invaluable alumni contributor and mentor. I am expecting great things from him, as he pursues his dreams in Humanoid Robotics development."
     }
   ],
   "projects": [
     {
-      "name": "Quantum Computing",
-      "summary": "Quantum computing is the use of quantum-mechanical phenomena such as superposition and entanglement to perform computation. Computers that perform quantum computations are known as quantum computers.",
-      "highlights": ["Quantum Teleportation", "Quantum Cryptography"],
-      "startDate": "2018-01-01",
-      "endDate": "2018-01-01"
+      "name": "TARS3D",
+      "summary": "A fully 3D-printed research robot inspired by TARS from the film Interstellar. 0.25m tall, 0.99kg. Walks at 0.10 m/s and rolls at 0.51 m/s using rimless-wheel dynamics — the first TARS replica that can both walk and roll. Mike Stilman Award finalist at Humanoids 2025.",
+      "highlights": [
+        "7 iterative prototypes built independently without funding or formal affiliation",
+        "Combines passive dynamic walking with RL-based locomotion",
+        "Presented at Humanoids 2025 and ICRA 2025"
+      ],
+      "startDate": "2022-11-01",
+      "endDate": ""
+    },
+    {
+      "name": "Deadbeat Control for Terrain Blind Bipedal Running",
+      "summary": "Research on control policies for dynamic bipedal running without terrain sensing, exploiting natural system dynamics.",
+      "highlights": [],
+      "startDate": "2019-10-01",
+      "endDate": ""
+    },
+    {
+      "name": "IITH Humanoid (Charlie)",
+      "summary": "Full-sized humanoid robot (1.72m) built from scratch at IIT Hyderabad with a budget of INR 7M. Developed controllers for walking, balance, push recovery, and jumping.",
+      "highlights": [],
+      "startDate": "2017-12-01",
+      "endDate": ""
     }
   ]
 }
