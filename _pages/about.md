@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Staff Robotics Engineer & Robotics Systems Architect @ <a href='https://nimble.ai'>Nimble.ai</a> · San Francisco Bay Area
+subtitle: Lead Robotics Engineer @ <a href='https://nimble.ai'>Nimble.ai</a> · San Francisco Bay Area
 
 profile:
   align: right
@@ -25,7 +25,7 @@ latest_posts:
 
 I make robots work — not just in the lab, but at scale, in production, every day.
 
-I am a Staff Robotics Engineer at [Nimble.ai](https://nimble.ai), where I own the control systems and performance optimization for autonomous warehouse robots. My work focuses on solving the mobility and manipulation challenges that enable robots to reliably pick, pack, and move items in real-world fulfillment environments. When the difference between a demo and a product is 10 million picks without someone babysitting, that is the kind of reliability problem I spend my days on.
+I am a Lead Robotics Engineer at [Nimble.ai](https://nimble.ai), where I own the control systems and performance optimization for autonomous warehouse robots. My work focuses on solving the mobility and manipulation challenges that enable robots to reliably pick, pack, and move items in real-world fulfillment environments. When the difference between a demo and a product is 10 million picks without someone babysitting, that is the kind of reliability problem I spend my days on.
 
 Before Nimble, I completed my MS in Robotics at [Carnegie Mellon University's Robotics Institute](https://www.ri.cmu.edu/) (GPA: 4.08/4.0), advised by [Prof. Hartmut Geyer](https://www.cs.cmu.edu/~hgeyer/). My research focused on control policies for dynamic legged systems, including work on [ATRIAS](https://mime.oregonstate.edu/research/drl/atrias/), a human-scale bipedal robot. I have published at ICRA, IROS, and IEEE Humanoids.
 
