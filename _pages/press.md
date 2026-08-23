@@ -2,8 +2,8 @@
 layout: page
 permalink: /press/
 title: press
-nav: true
-nav_order: 3
+nav: false
+nav_order: 6
 description: Media coverage of TARS3D and earlier work.
 ---
 

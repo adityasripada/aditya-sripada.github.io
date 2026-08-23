@@ -43,6 +43,21 @@ At the **Robotics and Intelligent Systems Lab, IIT Hyderabad**, I independently 
 - Vertical jumping (presented at ROBIO 2018)
 - Real-time teleoperation with full-body motion imitation from a human operator (presented at ICARM 2018)
 
+<div class="row">
+    <div class="col-sm-7 mt-3 mt-md-0 mx-auto">
+        {% include figure.liquid loading="eager" path="assets/img/google-sites/iith-sensor-head-zed-lidar.jpg" title="Sensor head: Stereolabs ZED over a scanning LiDAR" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    The sensor head — Stereolabs ZED stereo camera above a scanning LiDAR.
+</div>
+
+### Other work in the same lab
+
+- **Five-bar parallel manipulator** — a design in which all four links are of equal length, which introduces additional parallel singularities. I developed a control strategy to pass through them, significantly enlarging the usable workspace, and validated it on a prototype with micron-level precision control.
+- **Full-sized quadruped** — gait development for a cheetah-sized 12-DoF quadruped targeting 30 m/min at a 15 cm step length.
+- **Push recovery by sliding** — recovering from pushes by continuously reconfiguring posture and initiating a controlled slide once the zero-moment point reaches a set position under the foot.
+
 ### Related publications
 
 - **Biped Robot Vertical Jumping with Control Constraints** — *ROBIO 2018*

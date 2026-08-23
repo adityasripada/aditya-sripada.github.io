@@ -11,7 +11,7 @@ profile:
   more_info: >
     <p>San Francisco Bay Area, USA</p>
 
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false
 social: true # includes social icons at the bottom of the page
 
 announcements:
@@ -23,12 +23,20 @@ latest_posts:
   enabled: false
 ---
 
-I make robots work — not just in the lab, but at scale, in production, every day.
+**I make robots work at scale — in production, every day, not in a demo.**
 
-I am a Lead Robotics Engineer at [Nimble.ai](https://nimble.ai), where I own the control systems and performance optimization for autonomous warehouse robots. My work focuses on solving the mobility and manipulation challenges that enable robots to reliably pick, pack, and move items in real-world fulfillment environments. When the difference between a demo and a product is 10 million picks without someone babysitting, that is the kind of reliability problem I spend my days on.
+I lead robotics at [Nimble.ai](https://nimble.ai), where I own the control systems behind autonomous warehouse robots that pick, pack, and move real inventory. I joined as the first robotics engineer on the flagship system and have grown through five roles to **Lead Robotics Engineer**. The problems I am good at are the ones that only appear at scale: reliability across heterogeneous fleets, dynamics that drift, sensing that degrades in the real world, and the long gap between a robot that works once and a robot that works ten million times without anyone babysitting it.
 
-Before Nimble, I completed my MS in Robotics at [Carnegie Mellon University's Robotics Institute](https://www.ri.cmu.edu/) (GPA: 4.08/4.0), advised by [Prof. Hartmut Geyer](https://www.cs.cmu.edu/~hgeyer/). My research focused on control policies for dynamic legged systems, including work on [ATRIAS](https://mime.oregonstate.edu/research/drl/atrias/), a human-scale bipedal robot. I have published at ICRA, IROS, and IEEE Humanoids.
+### Research is my passion, not my job title
 
-I am also the creator of [TARS3D](https://arxiv.org/abs/2510.05001), a dual-mode locomotion robot inspired by the TARS character from _Interstellar_ that can both walk and roll — a 0.25 m, 0.99 kg platform with seven actuated degrees of freedom that reconfigures its four telescopic pillars into an eight-spoke rimless wheel to switch between walking and rolling. I went to unreasonable lengths for my passion for robotics — TARS3D started with zero industry funding and earned a **Mike Stilman Award finalist** nomination at [IEEE Humanoids 2025](https://2025.ieee-humanoids.org/) in Seoul — one of two finalists selected from 202 submissions. Before that, I led India's first gold medal win at [RoboGames 2017](https://robogames.net/).
+I build robots on my own time because I cannot not do it. That is where **[TARS3D]({{ '/projects/1_tars3d/' | relative_url }})** came from — a 0.25 m, 0.99 kg machine inspired by the robot from *Interstellar*, with seven actuated degrees of freedom and four telescopic pillars that reconfigure into an eight-spoke rimless wheel so it can both walk and roll. It is the only TARS recreation that genuinely does both.
 
-I am an **IEEE Senior Member** and a member of the **Forbes Technology Council**, and I review for IROS, RA-L, ISER and ARSO. My background spans mechanical design, circuits and power systems, optimal control, and software for complex robotic systems. I care about closing the gap between what robots can do in demos and what they can do in the real world — that is the hard part, and that is what I am good at. If you want the longer version of how I got here, it is on the [robots & me](/story/) page.
+It started with zero industry funding and ended up as **one of two finalists selected from 202 submissions** for the Mike Stilman Award at [IEEE Humanoids 2025](https://2025.ieee-humanoids.org/) in Seoul. It was written up by *New Atlas*, *Hackaday*, *Yanko Design* and more than twenty other outlets worldwide, and by [Carnegie Mellon's Robotics Institute](https://www.ri.cmu.edu/from-sci-fi-to-reality-scs-alumni-reimagine-robot-locomotion/). I mention it not because I am an academic — I am not — but because it is the clearest evidence I have of what I will do with a hard problem and no one telling me to solve it.
+
+### Credentials
+
+I am an **IEEE Senior Member**, a grade held by a minority of IEEE members and awarded only for demonstrated professional achievement, and a member of the **Forbes Technology Council**. I sit on the IEEE Senior Member review panel, judging other engineers' applications, and I review for IROS, RA-L, ISER, and ARSO. The full picture is on the [recognition]({{ '/recognition/' | relative_url }}) page.
+
+Before Nimble I earned my MS in Robotics at [Carnegie Mellon's Robotics Institute](https://www.ri.cmu.edu/) (GPA 4.08/4.0) with [Prof. Hartmut Geyer](https://www.cs.cmu.edu/~hgeyer/), working on control for dynamic legged systems including the [ATRIAS](https://mime.oregonstate.edu/research/drl/atrias/) biped. Before that I led India's first gold medal at [RoboGames 2017](https://robogames.net/) and built a full-sized humanoid from scratch at IIT Hyderabad.
+
+My range runs from mechanical design and power electronics through optimal control to the software that ties it together. If you want the longer story of how I got here, it is on the [robots & me]({{ '/story/' | relative_url }}) page.
