@@ -1,16 +1,16 @@
 cv:
   name: Aditya Sripada
-  label: "Staff Robotics Engineer & Robotics Systems Architect"
+  label: "Lead Robotics Engineer"
   email: adityassripada@gmail.com
   location: San Francisco Bay Area, USA
   image: ""
-  summary: I make robots work — not just in the lab, but at scale, in production, every day. Staff Robotics Engineer at Nimble.ai, focused on autonomous mobile manipulation for warehouse operations. MS in Robotics from Carnegie Mellon University's Robotics Institute.
+  summary: I make robots work — not just in the lab, but at scale, in production, every day. Lead Robotics Engineer at Nimble.ai, focused on autonomous mobile manipulation for warehouse operations. MS in Robotics from Carnegie Mellon University's Robotics Institute. IEEE Senior Member.
 
   social_networks:
     - network: LinkedIn
       username: adityasripada
     - network: GitHub
-      username: aditya-sripada
+      username: adityasripada
 
   sections:
     Education:
@@ -40,10 +40,16 @@ cv:
 
     Experience:
       - company: Nimble.ai
-        position: Staff Robotics Engineer & Robotics Systems Architect
+        position: Lead Robotics Engineer
+        location: San Francisco Bay Area, USA
+        start_date: 2026-05
+        end_date: present
+
+      - company: Nimble.ai
+        position: Staff Robotics Engineer
         location: San Francisco Bay Area, USA
         start_date: 2026-02
-        end_date: present
+        end_date: 2026-05
         highlights:
           - Enabling autonomous mobile manipulator fleets that move, carry, pick and pack millions of SKUs across warehouses.
 
@@ -148,6 +154,10 @@ cv:
         awarder: "Robogames, San Francisco, USA"
         summary: "Also won Silver (Humanoid Freestyle), Silver (Humanoid Biped Race), Bronze (RC Humanoid Sumo). India's first Robogames gold medal."
 
+      - title: "WAT Consult Best Innovation Award"
+        date: 2017
+        awarder: "Atmos Techfest, BITS Pilani Hyderabad Campus, India"
+
       - title: Third Prize, Humanoid Application Challenge — Humanoid Magic
         date: 2017
         awarder: IEEE International Conference on Intelligent Robots and Systems 2017
@@ -164,6 +174,11 @@ cv:
       - title: Winner, National Maker Summit
         date: 2016
         awarder: IIT Madras
+        summary: "For Aawaaz, a bone-conduction hearing aid."
+
+      - title: "Robogames 2015 — Bronze Medal"
+        date: 2015
+        awarder: "Robogames, San Francisco, USA"
 
       - title: University Merit Scholar
         date: 2017
@@ -231,6 +246,36 @@ cv:
           - B. Hemalatha
         publisher: ICEECCOT 2017
         releaseDate: 2017
+
+    Memberships:
+      - label: IEEE Senior Member
+        details: "Elevated grade held by a minority of IEEE members, requiring significant demonstrated professional achievement."
+      - label: Forbes Technology Council
+        details: "Invitation-only community for senior technology executives and engineers."
+
+    Professional Service:
+      - label: IEEE Senior Member Review Panel
+        details: "Panelist, 2026 — reviewed and voted on Senior Member applications for the IEEE Admission and Advancement Committee."
+      - label: "IEEE/RSJ Int. Conference on Intelligent Robots and Systems (IROS)"
+        details: "Reviewer, 2026"
+      - label: "IEEE Int. Conference on Advanced Robotics and Social Impacts (ARSO)"
+        details: "Reviewer, 2026"
+      - label: "IEEE Robotics and Automation Practice (RAP)"
+        details: "Reviewer, 2026"
+      - label: "IEEE Robotics and Automation Letters (RA-L)"
+        details: "Reviewer"
+      - label: "Int. Symposium on Experimental Robotics (ISER)"
+        details: "Reviewer, 2025"
+      - label: "Int. Conference on Control, Automation and Systems (ICCAS)"
+        details: "Reviewer, 2025"
+      - label: "Int. Conference on Automation, Robotics and Computer Engineering (ICARCE)"
+        details: "Reviewer, 2025"
+      - label: "Artificial Intelligence & Autonomous Systems (AIAS)"
+        details: "Reviewer, 2025"
+      - label: "IEEE-RAS Int. Conference on Humanoid Robots (Humanoids)"
+        details: "Reviewer, 2018"
+      - label: "Smart India Hackathon (Government of India)"
+        details: "Evaluator, Robotics and Drones track, 2018"
 
     Skills:
       - name: Robotics & Control
