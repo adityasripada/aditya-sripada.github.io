@@ -9,8 +9,6 @@ cv:
   social_networks:
     - network: LinkedIn
       username: adityasripada
-    - network: GitHub
-      username: adityasripada
 
   sections:
     Education:

@@ -12,9 +12,7 @@ description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Aditya Sripada is a robotics engineer working on mobile manipulation and
   legged locomotion. Creator of TARS3D, IEEE Humanoids 2025 Mike Stilman
   Award finalist, and IEEE Senior Member.
-footer_text: >
-  &copy; Aditya Sripada. Built with <a href="https://jekyllrb.com/" target="_blank">Jekyll</a>
-  and the <a href="https://github.com/alshedivat/al-folio" target="_blank">al-folio</a> theme.
+footer_text: # the layout already renders the copyright line; MIT attribution is in LICENSE
 keywords: Aditya Sripada, robotics engineer, mobile manipulation, legged locomotion, humanoid robots, TARS3D, bipedal robots, optimal control, reinforcement learning, warehouse robotics
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🤖 # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -28,21 +26,6 @@ back_to_top: true # set to false to disable the back to top button
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
-
-# repo color theme
-repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
-repo_trophies:
-  enabled: true
-  theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
-  theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
-
-# External service URLs for repository page
-# To use a different instance or service for displaying GitHub stats and trophies,
-# update these URLs. These are used in the repository templates.
-external_services:
-  github_readme_stats_url: https://github-readme-stats.vercel.app
-  github_profile_trophy_url: https://github-profile-trophy.vercel.app
 
 # -----------------------------------------------------------------------------
 # RSS Feed
