@@ -10,12 +10,15 @@ category: work
 As an **LVP-MIT Research Fellow** at the LVPEI Center for Innovation, I worked on a collaboration between L.V. Prasad Eye Institute (Hyderabad) and MIT Media Lab to develop high-quality, low-cost diagnostic tools for eye pathology — aimed at fighting preventable blindness.
 
 <div class="row">
-    <div class="col-sm-8 mt-3 mt-md-0 mx-auto">
-        {% include figure.liquid loading="eager" path="assets/img/google-sites/pupil-plus-device.jpg" title="Pupil+ device — handheld pupillary response measurement" class="img-fluid rounded z-depth-1" %}
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/google-sites/pupil-plus-device.jpg" title="Pupil+ device" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/google-sites/pupil-plus-in-use.jpg" title="Pupil+ in use, showing both eyes on the built-in display" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
-    Pupil+ in use: a handheld device for quantifying pupillary and neurological responses to light stimuli.
+    Pupil+: a handheld binocular device for quantifying pupillary and neurological responses to light stimuli.
 </div>
 
 ### Projects
@@ -30,6 +33,15 @@ As an **LVP-MIT Research Fellow** at the LVPEI Center for Innovation, I worked o
 **Infant Gaze Tracking** — Developed a system to quantify infant response to changing light stimuli without subjectivity, enabling more reliable pediatric eye exams.
 
 **Dry Eye Syndrome Detection** — Developed an inexpensive, multifunctional device to detect and quantify Dry Eye Syndrome.
+
+<div class="row">
+    <div class="col-sm-8 mt-3 mt-md-0 mx-auto">
+        {% include figure.liquid loading="eager" path="assets/img/google-sites/lvpei-fellowship.jpg" title="LVPEI Center for Innovation" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+<div class="caption">
+    At the LVPEI Center for Innovation, Hyderabad.
+</div>
 
 ### Mentorship
 

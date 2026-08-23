@@ -5,7 +5,7 @@ permalink: /projects/
 description: Robots I have designed, built, and programmed — from sci-fi-inspired multimodal locomotion to humanoids, assistive devices, and hybrid aerial-terrestrial systems.
 nav: true
 nav_order: 1
-display_categories: [work, fun]
+display_categories: [work, early]
 horizontal: false
 ---
 

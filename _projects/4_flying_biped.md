@@ -2,7 +2,7 @@
 layout: page
 title: Flying Biped
 description: A hybrid robot combining bipedal terrain locomotion with quadrotor aerial capabilities
-img: assets/img/google-sites/flying-biped.jpg
+img: assets/img/google-sites/flying-biped-front.jpg
 importance: 4
 category: work
 ---
