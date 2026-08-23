@@ -161,25 +161,26 @@ kramdown:
 # Includes & excludes
 include: ["_pages", "_scripts"]
 exclude:
+  # never publish local documents dropped into the repo root
+  - "*.docx"
+  - "*.doc"
+  - "*.xlsx"
+  - "*.pptx"
   - bin/
-  - CONTRIBUTING.md
-  - CUSTOMIZE.md
   - Dockerfile
   - docker-compose.yml
   - docker-compose-slim.yml
-  - FAQ.md
   - Gemfile
   - Gemfile.lock
-  - INSTALL.md
   - LICENSE
-  - lighthouse_results/
   - package.json
   - package-lock.json
-  - _pages/about_einstein.md
   - purgecss.config.js
+  - requirements.txt
+  - .pre-commit-config.yaml
   - README.md
-  - readme_preview/
   - vendor
+  - IMAGES-TODO.md
 keep_files:
   - CNAME
   - .nojekyll
